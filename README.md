@@ -81,10 +81,13 @@ The script expects the following folder structure:
 │   ├── file4.pdf
 │   └── ...
 ├── main.py
+└──Initial_Tries_B_M_SOMASHEKAR.ipynb
 └── .env
 ```
 
 ---
+
+"""The Initial_Tries_B_M_SOMASHEKAR.ipynb is a file that is just a compilation of different models tried out/documentation for this project. It is not a required file for the project to run."""
 
 ## Output
 1. **Individual Outputs**:
